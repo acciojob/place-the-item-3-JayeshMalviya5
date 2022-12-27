@@ -1,2 +1,12 @@
+.container{
+    border: 2px solid black;
+    display:flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+}
 
-/* Your CSS Code here. */
+
+div{
+    border: 2px solid black;
+}

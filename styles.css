@@ -1,5 +1,5 @@
-.container{
-    border: 2px solid black;
+.holder{
+    /* border: 2px solid black; */
     display:flex;
     flex-direction: row;
     flex-flow: wrap;
@@ -7,6 +7,3 @@
 }
 
 
-div{
-    border: 2px solid black;
-}
